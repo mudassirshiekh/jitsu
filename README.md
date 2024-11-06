@@ -1,4 +1,5 @@
 # Jitsu 2.0
+#By Mudassir Alam
 
 <p align="center">
 👉<b>Looking for Jitsu Classic? Switch to 
