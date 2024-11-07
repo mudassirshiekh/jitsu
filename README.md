@@ -42,7 +42,7 @@ It is a self-hosted, open-source alternative to Segment.
 ## 1. Install Jitsu
 
 ### Docker Compose
-
+# Dickeer conpode.Jarvish
 The fastest way to install jitsu is [docker compose](https://docs.jitsu.com/self-hosting/quick-start):
 
 ```bash
